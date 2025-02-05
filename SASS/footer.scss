@@ -1,0 +1,14 @@
+.footer {
+    display: flex;
+    position: fixed;
+    flex-wrap: wrap;
+    flex-direction: row; 
+    /*z-index: 1000; // Asegura que el menú esté delante del carrusel*/
+    width: 100%;
+    background-color: $secondary-color;
+    padding: 20px;
+    border: 2px solid black;
+    justify-content: center;
+    align-content: space-between 20px;
+    font:black;
+}

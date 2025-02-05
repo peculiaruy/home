@@ -334,6 +334,21 @@ width: wv 30px;
   margin-bottom: 15px;
 }
 
+.footer {
+  display: flex;
+  position: fixed;
+  flex-wrap: wrap;
+  flex-direction: row;
+  /*z-index: 1000; // Asegura que el menú esté delante del carrusel*/
+  width: 100%;
+  background-color: rgb(228, 208, 142);
+  padding: 20px;
+  border: 2px solid black;
+  justify-content: center;
+  align-content: space-between 20px;
+  font: black;
+}
+
 .primary-button {
   padding: 10px 10px;
   border-radius: 20px;
