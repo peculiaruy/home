@@ -180,6 +180,13 @@
   font-size: 20px;
 }
 
+.productostexto {
+  margin-top: 50px;
+  width: 100%;
+  display: flex;
+  padding: 20px;
+}
+
 #comocomprar {
   display: flex;
   flex-wrap: wrap;
