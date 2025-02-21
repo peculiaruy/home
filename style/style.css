@@ -397,7 +397,7 @@ a:hover {
 }
 
 .inicio {
-  background-image: url(../ASSETS/fotoinicial.jpg);
+  background-image: url(../assets/fotoinicial.jpg);
   display: flex;
   flex-direction: column;
   background-size: cover;
