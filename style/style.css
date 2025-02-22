@@ -353,7 +353,7 @@ width: wv 30px;
 
 .footer {
   display: flex;
-  position: fixed;
+  /* position: fixed;*/
   flex-wrap: wrap;
   flex-direction: row;
   /*z-index: 1000; // Asegura que el menú esté delante del carrusel*/
@@ -364,6 +364,10 @@ width: wv 30px;
   justify-content: center;
   align-content: space-between 20px;
   font: black;
+}
+
+#footercomocomprar {
+  display: fixed;
 }
 
 .primary-button {

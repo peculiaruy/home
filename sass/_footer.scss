@@ -1,6 +1,6 @@
 .footer {
     display: flex;
-    position: fixed;
+   /* position: fixed;*/
     flex-wrap: wrap;
     flex-direction: row; 
     /*z-index: 1000; // Asegura que el menú esté delante del carrusel*/
@@ -12,3 +12,6 @@
     align-content: space-between 20px;
     font:black;
 }
+
+#footercomocomprar
+{display: fixed;}
