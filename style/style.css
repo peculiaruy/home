@@ -366,8 +366,9 @@ width: wv 30px;
   font: black;
 }
 
-#footercomocomprar {
+#footercomocomprar .footer {
   display: fixed;
+  width: 100 vw;
 }
 
 .primary-button {
