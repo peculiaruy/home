@@ -370,8 +370,8 @@ width: wv 30px;
 }
 
 #footercomocomprar .footer {
-  display: fixed;
-  width: 100 vw;
+  display: flex;
+  width: 100vw;
 }
 
 .primary-button {
