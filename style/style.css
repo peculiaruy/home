@@ -181,10 +181,13 @@
 }
 
 .productostexto {
-  margin-top: 50px;
+  margin-top: 0px;
   width: 100%;
   display: flex;
   padding: 20px;
+  text-align: justify;
+  background-color: rgb(156, 133, 58);
+  color: white;
 }
 
 #comocomprar {
